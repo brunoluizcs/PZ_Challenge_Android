@@ -11,7 +11,7 @@ Programming Challenge for Android Developers
 3. Crie as instruções de instalação e execução do aplicativo em seu readme.md
 4. Por fim, envie o link do seu repositório para avaliarmos seu código
 
-Desanexar: duplicate the repository: a) Create a new repository on GitHub, b) Clone the forked repository you want to detach from its parent, and c) Push all branches in this clone to your new repository.
+Desanexar - basically duplicate the repository: a) Create a new repository on GitHub, b) Clone the forked repository you want to detach from its parent, and c) Push all branches in this clone to your new repository.
 
 ## Requisitos do projeto
 
