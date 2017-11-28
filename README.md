@@ -6,9 +6,12 @@ Programming Challenge for Android Developers
 ## Instruções de entrega do desafio
 
 1. Primeiro, faça um fork deste projeto para sua conta no Github (crie uma se você não possuir).
-2. Em seguida, implemente o projeto tal qual descrito abaixo, em seu próprio fork.
+2. Desanexe o fork do seu projeto (Instrucao de Desanexar abaixo)
+2. Em seguida, implemente o projeto tal qual descrito abaixo, em seu próprio repositório depois de estar desanexado.
 3. Crie as instruções de instalação e execução do aplicativo em seu readme.md
 4. Por fim, envie o link do seu repositório para avaliarmos seu código
+
+Desanexar: duplicate the repository: a) Create a new repository on GitHub, b) Clone the forked repository you want to detach from its parent, and c) Push all branches in this clone to your new repository.
 
 ## Requisitos do projeto
 
